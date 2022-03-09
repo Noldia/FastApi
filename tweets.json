@@ -1,1 +1,41 @@
-[]
+[
+  {
+    "tweet_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "content": "This is the first tweet in the history",
+    "created_at": "2022-03-09 18:26:44.624581",
+    "updated_at": "2022-03-09 23:27:08.610000+00:00",
+    "by": {
+      "user_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+      "email": "noldia@example.com",
+      "first_name": "Chavez",
+      "last_name": "Chavez",
+      "birth_date": "1992-08-02"
+    }
+  },
+  {
+    "tweet_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "content": "This is my first tweet",
+    "created_at": "2022-03-09 18:26:44.624581",
+    "updated_at": "2022-03-09 23:27:08.610000+00:00",
+    "by": {
+      "user_id": "3fa85f64-5717-4562-b3fc-2c963f66afa7",
+      "email": "aaron@example.com",
+      "first_name": "Aaron",
+      "last_name": "Chavez",
+      "birth_date": "1999-04-03"
+    }
+  },
+  {
+    "tweet_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "content": "Hi everyone",
+    "created_at": "2022-03-09 18:26:44.624581",
+    "updated_at": "2022-03-09 23:27:08.610000+00:00",
+    "by": {
+      "user_id": "3fa85f64-5717-4562-b3fc-2c963f66afa8",
+      "email": "andrea@example.com",
+      "first_name": "Andrea",
+      "last_name": "Carrion",
+      "birth_date": "1999-04-03"
+    }
+  }
+]
